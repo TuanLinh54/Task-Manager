@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import Dashboard from "./pages/Dashboard";
 import Login from "./pages/Login";
 import { Routes, Route, Navigate, useLocation, Outlet } from "react-router-dom";
